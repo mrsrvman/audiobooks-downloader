@@ -29,7 +29,7 @@ git clone https://github.com/mrsrvman/audiobooks-downloader.git src
 scripts\pip install -r src\requirements.txt
 ```
 * Download [Chromedriver](https://chromedriver.chromium.org/downloads), extract to your current working directory.
-* Make sure you have the recent version of Firefox installed.
+* Make sure you have the recent version of  Chrome installed.
 * Run the app:
 ```
 cd src
